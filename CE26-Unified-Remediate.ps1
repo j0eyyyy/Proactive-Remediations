@@ -59,10 +59,6 @@ foreach($n in $RemoveAll){ Remove-Appx-All $n }
 
 Remove-TeamsClassic
 
-# ===== CentraStage Remediation Block =====
-# (Your full Datto AEM/ CentraStage uninstall script goes here exactly as provided)
-# For readability, not duplicated again here unless you want a merged monolithic script.
-
 Log "=== REMEDIATION FINISH ==="
 
 if($Err){ exit 1 } else { exit 0 }
