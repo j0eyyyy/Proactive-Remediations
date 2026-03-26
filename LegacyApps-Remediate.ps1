@@ -1,6 +1,5 @@
 <#
 Unified Legacy App Remediation
-Author: Joe Howey (built with M365 Copilot)
 Date: 2026-03-26
 
 Remediates:
